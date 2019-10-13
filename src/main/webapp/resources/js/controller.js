@@ -42,16 +42,16 @@ cartApp.controller("cartCtrl", function($scope, $http) {
 
 	$scope.removeFromCart = function(productId) {
 
-		$scope.setCsrfToken();
+			$scope.setCsrfToken();
 
-		$http({
-			method : 'DELETE',
-			url : '/eStore/api/cart/cartItem/' + productId
-		}).then(function successCallback() {
-			$scope.refreshCart();
-		}, function errorCallback(response) {
-			console.log(response.data);
-		});
+			$http({
+				method : 'DELETE',
+				url : '/eStore/api/cart/cartItem/' + productId
+			}).then(function successCallback() {
+				$scope.refreshCart();
+			}, function errorCallback(response) {
+				console.log(response.data);
+			});
 	};
 
 	$scope.plusFromCart = function(productId) {

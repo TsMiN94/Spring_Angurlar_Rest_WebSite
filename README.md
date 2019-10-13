@@ -30,7 +30,7 @@ Home
 
 
 ### Products
-![products](./img/products.PNG)
+![products](./img/Products.PNG)
 - Admin 관리자가 사전에 등록해둔 Product의 리스트를 볼수 있다.
 
 ![productInfo](./img/productInfo.PNG)
@@ -51,7 +51,7 @@ Register
 - 회원가입을 위한 유저의 인적사항 입력
 
 
-![register](./img/contentNUll.PNG)
+![contentNULL](./img/contentNull.PNG)
 - 올바른 정보가 들어가지 않을경우 페이지 redirect하여 다시 입력하도록 요청
 
 
@@ -62,6 +62,6 @@ AdminPage
 
 - 관리자로써 상품을 관리할수 있다.
 
-![productInventory](./img/productInventory.PNG)
+![productInventory](./img/ProductInventory.PNG)
 ![productInventory](./img/editProduct.PNG)
 - 상품을 제거하거나 상품안에 있는 내용을 수정 가능하다.

@@ -67,11 +67,7 @@
 				<a class="btn btn-info" href="<c:url value="products" /> " class="btn btn-default">Continue Shopping</a>
 			</div>
 
-
 		</section>
-
-
 	</div>
-
 </div>
 
