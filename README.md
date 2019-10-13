@@ -11,7 +11,7 @@ Angular, Spring MVC, Rest API 이용한 간단한 웹페이지 입니다.
     - 다양한 엘리먼트들을 가져와 구현할수 있다.
 
 
-- angularjs
+- angular.js
 
 - Rest API
 
@@ -49,7 +49,7 @@ Register
 ![register](./img/RegisterUser.PNG)
 
 - 회원가입을 위한 유저의 인적사항 입력
-
+ 
 
 ![contentNULL](./img/contentNull.PNG)
 - 올바른 정보가 들어가지 않을경우 페이지 redirect하여 다시 입력하도록 요청
