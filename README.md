@@ -11,7 +11,6 @@ Spring MVC, Rest API 이용한 간단한 웹페이지 입니다.
     - 다양한 엘리먼트들을 가져와 구현할수 있다.
 
 
-- angular.js
 
 - Rest API
 
